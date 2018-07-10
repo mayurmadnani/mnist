@@ -5,7 +5,8 @@ This work is to demonstrate the below problem:
 https://www.kaggle.com/c/digit-recognizer
 
 ## Techniques tried
-* [CNN](MNIST-CNN.ipynb)
+* [MNIST, CNN using Keras](MNIST_CNN-Keras.ipynb)
+* [Fashion MNIST, CNN using Keras](Fashion_MNIST_CNN-Keras.ipynb)
 
 ## Contributing
 * Report issues on issue tracker
