@@ -1,10 +1,16 @@
 # MNIST
-Digit Recognizer using MNIST Dataset
+- Digit Recognizer using MNIST dataset
+- Fashion product detector using Fashion MNIST dataset
 
-This work is to demonstrate the below problem: 
+This work is to demonstrate the below problems: 
+
 https://www.kaggle.com/c/digit-recognizer
 
-## Techniques tried
+https://www.kaggle.com/c/hw0-fashion-mnist
+
+
+## Tutorials
+* [MNIST, CNN using Tensorflow](MNIST_CNN-Tensorflow.ipynb)
 * [MNIST, CNN using Keras](MNIST_CNN-Keras.ipynb)
 * [Fashion MNIST, CNN using Keras](Fashion_MNIST_CNN-Keras.ipynb)
 
